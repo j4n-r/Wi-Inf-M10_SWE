@@ -6,6 +6,7 @@ roslaunch turtlebot3_gazebo turtlebot3_world.launch
 ```
 
 ### Fix fish setup
+Looks like this is not needed !!!
 
 Add this file `devel/etc/catkin/profile.d` with this content:
 ``` fish

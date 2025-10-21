@@ -40,6 +40,9 @@
                   rosbash
                   xacro
                   turtlesim
+                  rqt
+                  rqt-console
+                  rqt-graph
                 ];
               }
             )
